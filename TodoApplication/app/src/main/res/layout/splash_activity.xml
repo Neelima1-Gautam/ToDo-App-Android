@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/splash">
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_above="@+id/text1"
+        android:src="@mipmap/images"/>
+    <TextView
+        android:id="@+id/text1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text='"To-Do Application"'
+        android:layout_marginBottom="70dp"
+        android:textColor="@color/ghost_white"
+        android:fontFamily="monospace"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+</RelativeLayout>
