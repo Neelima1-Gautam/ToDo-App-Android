@@ -32,7 +32,7 @@ Productivity, “Getting Things Done” (GTD), Scheduling, and Collaboration. Th
 ## Database
 
 <ul>
-<li>SQL-lite Database</li>
+<li>SQL Database</li>
 </ul>
  
 ## Android Component 
