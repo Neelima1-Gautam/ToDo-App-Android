@@ -6,12 +6,7 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 Productivity, “Getting Things Done” (GTD), Scheduling, and Collaboration. This ToDo App help us keep track of daily obligations.
 
 
-## Images of Todo App
 
-<img src="Image/1.png" height=250 width=200></img>
-<img src="Image/2.png" height=250 width=200></img>
-<img src="Image/3.png" height=250 width=200></img>
-<img src="Image/4.png" height=250 width=200></img>
 
 
 ## Features
